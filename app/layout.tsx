@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "Cloud Network Simulation Dashboard",
-  description: "BTEC Unit 6: Cloud Networking Dashboard",
+  description: "Cloud Networking Dashboard",
     generator: 'v0.dev'
 }
 

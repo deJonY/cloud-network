@@ -57,7 +57,7 @@ export default function Dashboard() {
         <h2 className="text-3xl font-bold tracking-tight">Cloud Network Dashboard</h2>
         <div className="flex items-center space-x-2">
           <Badge variant="outline">Live Environment</Badge>
-          <Badge variant="secondary">BTEC Unit 6</Badge>
+          
         </div>
       </div>
 
